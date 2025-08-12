@@ -1,4 +1,4 @@
-# Evolutionary-Computing
+# Evolutionary_Computing
 ## Graph Search Algorithms in C
 
 This repository contains implementations of various **graph search algorithms** in C.  
@@ -67,7 +67,5 @@ and demonstrates a specific search technique.
 - **Type**: Optimal & Complete heuristic search.
 - **Description**: Classical A* using `f(n) = g(n) + h(n)` for guaranteed optimal pathfinding with admissible heuristics.
 
----
 
-## 📂 Repository Structure
 
